@@ -1,5 +1,5 @@
 {
-	error: false,
-	operation: 'PNDeleteMessagesOperation',
-	statusCode: 200
+  error: false,
+  operation: 'PNDeleteMessagesOperation',
+  statusCode: 200
 }
